@@ -18,4 +18,11 @@ Small game made in Cocos Creator.
 
 Have fun!
 
+![image](https://user-images.githubusercontent.com/83043304/123016772-b7b1a480-d3a1-11eb-8dab-c408793ee332.png)
+
+
+![image](https://user-images.githubusercontent.com/83043304/123016790-bc765880-d3a1-11eb-8503-a786a60f4cbb.png)
+
+
+![image](https://user-images.githubusercontent.com/83043304/123016798-c0a27600-d3a1-11eb-848f-372bceb62626.png)
 
